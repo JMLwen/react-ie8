@@ -10,7 +10,10 @@ require("console-polyfill");
 
 require("babel-polyfill");
 
+
 要使用ES6还需更改webpack.config.js的loaders
+
+
 loaders:[{
 
   test:/\.js[x]?$/,
