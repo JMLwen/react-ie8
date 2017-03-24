@@ -7,7 +7,7 @@ module.exports = {
     entry: {
         name: [
             'eventsource-polyfill',
-            './src/js/HiveData_router.jsx',
+            './src/js/app.js',
         ]
     },
     //入口文件输出配置
